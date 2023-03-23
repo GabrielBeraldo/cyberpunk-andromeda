@@ -1,0 +1,21 @@
+{
+  "name": "cyberpunk-andromeda",
+  "displayName": "Cyberpunk-andromeda",
+  "description": "my personal theme based on cyberpunk and andromeda colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberpunk andromeda",
+        "uiTheme": "hc-black",
+        "path": "./themes/Cyberpunk andromeda-color-theme.json"
+      }
+    ]
+  }
+}
