@@ -328,7 +328,7 @@
 		//Sidebar files, search, extensions list
 		"sideBar.background": "#0c0c11",
 		"sideBar.foreground": "#00d4b1",
-		"sideBar.border": "#0c0c11",
+		"sideBar.border": "#00d4b1",
 		"sideBar.dropBackground": "#00493d79",
 		"sideBarTitle.foreground": "#00d4b1",
 		"sideBarSectionHeader.background": "#013329",
@@ -504,10 +504,10 @@
 		
 		//diff editor colors
 		"diffEditor.border": "#00d4b1",
-		"diffEditor.diagonalFill": "#4200ad3d",
-		"diffEditor.insertedTextBackground": "#4200ad3d",
+		"diffEditor.diagonalFill": "#ffee003d",
+		"diffEditor.insertedTextBackground": "#00ff0086",
 		"diffEditor.insertedTextBorder": "#00d4b1",
-		"diffEditor.removedTextBackground": "#4200ad3d",
+		"diffEditor.removedTextBackground": "#ad000086",
 		"diffEditor.removedTextBorder": "#00d4b1",
   
 	  
